@@ -1,7 +1,7 @@
 # Project
 Coursera Project - Practical ML (Week 4 Assignment)
 
-Please use the markdown and html files to see the code and associated comments.
+Please use the markdown and PDF files to see the code and associated comments.
 
 The pred.csv file includes the output of final model, which is a GBM
 
